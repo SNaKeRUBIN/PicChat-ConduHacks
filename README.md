@@ -27,5 +27,5 @@ Technologies Used:
 4. IBM Watson Tone analyzer 
 
 
-
+**NOTE: As the Facebook messenger bot is still under review, it may take at least 1 business day before it can be publicly used.
 
